@@ -101,7 +101,7 @@ const Trung = {
 // ## Top Repositories 🌟
 
 <a href="https://github.com/Trung-HUST-2/trung-hust.kkv.site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST-2&repo=Trung-HUST-2.kkv.site&show_owner=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST-2&repo=Trung-HUST-2&show_owner=true&theme=chartreuse-dark" />
 </a>
 <!-- <a href="https://github.com/Trung-HUST-2/Trung-HUST">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST-2&repo=Trung-HUST&show_owner=true&theme=chartreuse-dark" />
